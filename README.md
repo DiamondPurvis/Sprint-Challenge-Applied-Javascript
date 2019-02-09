@@ -45,6 +45,8 @@ It is when the browser looks for a specific event to trigger an action.
 
 4. Why would we convert a NodeList into an Array?
 
+Because the NodeList dont have the features of forEach, map, or filter.
+
 5. What is a component?
 
 ### Git Set up
