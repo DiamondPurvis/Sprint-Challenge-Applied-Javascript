@@ -37,6 +37,8 @@ The DOM is basically a tree with nested elements. It has alot of methods and pro
 
 2. What is an event?
 
+An event is an interaction that a user may have on a site. This event triggers somthing to happen.
+
 3. What is an event listener?
 
 4. Why would we convert a NodeList into an Array?
