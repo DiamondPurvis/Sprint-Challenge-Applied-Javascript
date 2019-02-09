@@ -41,6 +41,8 @@ An event is an interaction that a user may have on a site. This event triggers s
 
 3. What is an event listener?
 
+It is when the browser looks for a specific event to trigger an action. 
+
 4. Why would we convert a NodeList into an Array?
 
 5. What is a component?
