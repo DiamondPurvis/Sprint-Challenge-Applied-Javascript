@@ -49,6 +49,8 @@ Because the NodeList dont have the features of forEach, map, or filter.
 
 5. What is a component?
 
+Its a reuseable code that can be referenced in html, css, or javascript.
+
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
